@@ -4,4 +4,4 @@ title: Wallet
 ---
 
 # My **Wallet**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+<img class="about" alt="wallet" src="/images/wallet.jpeg" width="700" />
