@@ -1,7 +1,7 @@
 ---
 layout: layout.liquid
-title: About
+title: Wallet
 ---
 
-# About the 11ty **Boilerplate**
+# My **Wallet**
 <img class="about" alt="pine" src="/images/pine.png" width="50" />
