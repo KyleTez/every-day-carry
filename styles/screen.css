@@ -38,6 +38,8 @@ h1 {
     letter-spacing: -2px;
     margin: 0px auto;
     width: fit-content;
+    border-bottom: 3px solid black;
+    border-radius: 50px;
 }
 
 h1 strong {
